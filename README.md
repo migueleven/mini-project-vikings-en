@@ -1,24 +1,24 @@
-# Vikings vs. Saxons
+# 🛡️ Vikings vs. Saxons ⚔️
 
 ---
 
-## **Project Overview**
+## **📖 Project Overview**
 
 The **Vikings vs. Saxons** project simulates an epic battle between Viking warriors and Saxon soldiers using **object-oriented programming** principles in Python. It models individual warriors, their respective armies, attacks, damage management, and ultimately determines the outcome of the war.
 
-The project includes:
-- **Core Classes**: `Soldier`, `Viking`, and `Saxon`.
-- A main `War` class that orchestrates interactions between armies.
-- **Unit tests** to ensure the functionality and reliability of the implemented features.
-- A battle simulation script that showcases the mechanics of the war.
+### **What this project includes**:
+- ⚙️ **Core Classes**: `Soldier`, `Viking`, and `Saxon`.
+- 🧠 A main `War` class that orchestrates interactions between armies.
+- ✅ **Unit tests** to ensure the functionality and reliability of the implemented features.
+- 🎮 A battle simulation script that showcases the mechanics of the war.
 
 ---
 
-## **Key Features**
+## **🌟 Key Features**
 
 ### **Classes**
 
-#### **`Soldier`**
+#### **`Soldier`** 🪖
 Represents a generic soldier with basic attributes and behaviors.
 
 - **Attributes**:
@@ -28,7 +28,7 @@ Represents a generic soldier with basic attributes and behaviors.
   - `attack()`: Returns the soldier's strength.
   - `receiveDamage(damage)`: Reduces the soldier's health by the specified damage amount.
 
-#### **`Viking`** *(inherits from `Soldier`)*
+#### **`Viking`** 🪓 *(inherits from `Soldier`)*
 Represents a Viking warrior with additional unique behaviors.
 
 - **Attributes**:
@@ -38,13 +38,13 @@ Represents a Viking warrior with additional unique behaviors.
   - `battleCry()`: Returns the Viking's war cry: `"Odin Owns You All!"`.
   - `receiveDamage(damage)`: Adjusts health and returns a message indicating damage or death.
 
-#### **`Saxon`** *(inherits from `Soldier`)*
+#### **`Saxon`** 🛡️ *(inherits from `Soldier`)*
 Represents a Saxon soldier.
 
 - **Methods**:
   - `receiveDamage(damage)`: Adjusts health and returns a message indicating damage or death.
 
-#### **`War`**
+#### **`War`** ⚔️
 Manages the interaction between Viking and Saxon armies.
 
 - **Attributes**:
@@ -59,7 +59,7 @@ Manages the interaction between Viking and Saxon armies.
 
 ---
 
-## **Unit Testing**
+## **✅ Unit Testing**
 
 The project includes a comprehensive suite of unit tests to ensure that all components work as expected. These tests cover:
 
@@ -69,28 +69,30 @@ The project includes a comprehensive suite of unit tests to ensure that all comp
   - Validates methods like `attack()`, `receiveDamage()`, and `battleCry()`.
 - **Army management in `War` class**:
   - Tests functionality for adding warriors and simulating attacks.
+    
+---
 
-## **Future Improvements**
+## **🚀 Future Improvements**
 
-1. **Robustness and Validations**:
+1. **🔒 Robustness and Validations**:
    - Ensure health and strength values are within valid ranges during instantiation.
    - Handle invalid inputs gracefully.
 
-2. **Strategic AI**:
+2. **🤖 Strategic AI**:
    - Implement advanced strategies for Viking and Saxon attacks.
    - Introduce critical hits or defensive maneuvers.
 
-3. **New Warrior Types**:
+3. **🪖 New Warrior Types**:
    - Add additional classes like Archers or Knights with unique attributes and methods.
 
-4. **Visualization**:
+4. **🎨 Visualization**:
    - Create a visual representation of the battlefield using ASCII art or a graphical library.
 
-5. **Detailed Logs**:
+5. **📝 Detailed Logs**:
    - Generate detailed logs for each round to track the progression of the battle.
 
 ---
 
-## **License**
+## **📜 License**
 
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it. 😊
+This project is open-source and available under the **MIT License**. Feel free to use, modify, and distribute it. 😊

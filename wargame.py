@@ -1,9 +1,7 @@
 # With a correction already implemented: dont forget to initialize an instance of Class "War"
 
-
-from .vikingsClasses import Soldier, Viking, Saxon, War
+from vikingsClasses import Soldier, Viking, Saxon, War
 import random
-
 
 soldier_names = ["albert","andres","archie","dani", "david","gerard","german","graham","imanol","laura"]
 great_war = War()

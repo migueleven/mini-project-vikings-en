@@ -1,4 +1,5 @@
 # 🛡️ Vikings vs. Saxons ⚔️
+![image](https://github.com/user-attachments/assets/0d0d5ef1-eef3-49c4-a49b-dbab5549a7ab)
 
 ---
 

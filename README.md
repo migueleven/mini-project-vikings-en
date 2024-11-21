@@ -1,8 +1,8 @@
 <div align="center">
   <h1>🛡️ Vikings vs. Saxons ⚔️</h1>
-  <img src="assets/vikings_vs_saxons_title.png" alt="Vikings vs. Saxons Title" width="600">
 </div>
 
+![image](https://github.com/user-attachments/assets/5732c84c-a574-41c1-adde-61d50becf0a7)
 
 ---
 

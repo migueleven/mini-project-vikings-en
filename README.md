@@ -1,5 +1,8 @@
-# 🛡️ Vikings vs. Saxons ⚔️
-![image](https://github.com/user-attachments/assets/0d0d5ef1-eef3-49c4-a49b-dbab5549a7ab)
+<div align="center">
+  <h1>🛡️ Vikings vs. Saxons ⚔️</h1>
+  <img src="assets/vikings_vs_saxons_title.png" alt="Vikings vs. Saxons Title" width="600">
+</div>
+
 
 ---
 
